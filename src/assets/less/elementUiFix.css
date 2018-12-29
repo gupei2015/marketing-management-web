@@ -1,0 +1,25 @@
+.el-table {
+  margin: 20px 0;
+}
+.el-pagination {
+  text-align: right;
+}
+.handle-box {
+  text-align: right;
+  margin: 20px 0;
+}
+.filter-box {
+  margin: 30px 0 0;
+}
+.filter-box .el-form-item {
+  margin-right: 30px;
+}
+.textAlignR {
+  text-align: right;
+}
+.el-form[data-sign="noborder"] .el-form-item .is-disabled .el-input__inner,
+.el-form[data-sign="noborder"] .el-form-item .is-disabled .el-textarea__inner {
+  border: 0 none;
+  background-color: transparent;
+  color: #333;
+}
